@@ -48,3 +48,12 @@ Create a Tic-Tac-Toe game as described [here](http://programmingbydoing.com/a/ti
 - [Googles Python Class @developers.google.com](https://developers.google.com/edu/python)
 - [Automate the Boring Stuff with Python @automatetheboringstuff.com](http://automatetheboringstuff.com)
 - [Python Crash Course @youtube.com](https://www.youtube.com/watch?v=yE9v9rt6ziw)
+
+### Javascript
+
+- [Eloquent JavaScript (very good online book)](http://eloquentjavascript.net/)
+- [Video tutorial (3h)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Javascript @developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JS @w3schools.com](https://www.w3schools.com/js/)
+- [ES6 katas](http://es6katas.org/)
+- [Tutorial @javascript.info](https://javascript.info/)
